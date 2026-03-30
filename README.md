@@ -5,7 +5,7 @@ Official website for **TECHKNOWLEDGE 2K26**, SSIT's flagship technical festival.
 ![Event Poster](innospark_banner.png)
 
 ## 📅 Event Details
-- **Dates**: April 7–8, 2026
+- **Dates**: April 10–11, 2026
 - **Venue**: SSIT Campus, Nagpur
 - **Participants**: 500+ expected
 
